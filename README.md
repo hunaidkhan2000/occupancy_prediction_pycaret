@@ -1,2 +1,2 @@
 # occupancy_prediction_pycaret
-Occupancy binary classification with pycaret
+Office room occupancy binary classification with pycaret
