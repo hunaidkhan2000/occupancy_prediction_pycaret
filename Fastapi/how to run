@@ -1,0 +1,5 @@
+run using  uvicorn fastapi_occupancy_app:app --port 1111
+
+## SYNTAX - uvicorn python file name: your fastapi app name --port number 
+
+## if you want to turn on the debug mode add --reload in the above code so that any changes in the app will be detected automatically and app wil restart. 
